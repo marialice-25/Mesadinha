@@ -38,7 +38,7 @@ foreign key(conta_id) references conta(id),
 primary key(id)
 )engine=innodb;
 
-select * from conta;
+
 
 
 
